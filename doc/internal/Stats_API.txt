@@ -2,7 +2,7 @@
 
 
 This API should be simple.
-Each module should collect statistics and stores them internally, preferibly
+Each module should collect statistics and stores them internally,preferably
 in a table format because this is how Admin will expect the results.
 
 Each module should implement 2 functions:
